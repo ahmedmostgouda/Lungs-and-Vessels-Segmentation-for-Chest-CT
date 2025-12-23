@@ -5,6 +5,7 @@
 **Project Date**: 2021  
 
 **Problem Statement**: This project presents a computer vision–based approach for lung and pulmonary vessel segmentation from 2D chest CT scans. Due to the absence of ground-truth annotations and the limited size of the dataset, traditional deep learning techniques were not applicable. Instead, a multi-stage 2D segmentation pipeline was developed using intensity thresholding, connected component analysis, and morphological operations. The proposed method generates three intermediate masks to isolate the lung region while excluding the background and trachea, followed by post-processing to refine lung boundaries and recover missed structures. Pulmonary vessels were subsequently segmented within the lung region based on Hounsfield Unit thresholds. Qualitative results demonstrate robust lung segmentation across challenging scans, with minor limitations in capturing large peripheral vessels. Additionally, geometric analysis was performed to compute lung area and vessel-to-lung area ratios, which were further analyzed using k-means clustering for unsupervised classification.  
+
 **Dataset**: [*LIDC-IDRI*: Lung Image Database Consortium and Image Database Resource Initiative](https://www.cancerimagingarchive.net/collection/lidc-idri/)
  
 ## Lungs Segmentation Pipeline  
