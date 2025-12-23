@@ -20,10 +20,10 @@
  
 
 ## References
-● Armato et al. (2015) “LIDC‑IDRI | Data from The Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI): A completed reference database of lung nodules on CT scans,” The Cancer Imaging Archive (TCIA). DOI:10.7937/K9/TCIA.2015.LO9QL9SX  
-● Armato et al. (2011) “The Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI): A completed reference database of lung nodules on CT scans,” Medical Physics, 38(2), pp. 915–931. DOI:10.1118/1.3528204  
-● Gonzalez R. C., Woods R. E. (2018) "Digital Image Processing", 4th Edition, Pearson.
-● Soille P. (2003) "Morphological Image Analysis: Principles and Applications", 2nd Edition, Springer.    
-● Canny J. (1986) "A Computational Approach to Edge Detection", IEEE Transactions on Pattern Analysis and Machine Intelligence, 8-6, 679–698. DOI:10.1109/TPAMI.1986.4767851  
-● Otsu N. (1979) "A Threshold Selection Method from Gray-Level Histograms", IEEE Transactions on Systems, Man, and Cybernetics, 9-1, 62–66. DOI:10.1109/TSMC.1979.4310076  
-● MacQueen J. (1967) "Some Methods for Classification and Analysis of Multivariate Observations", Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, 1, 281–297.  
+● Armato et al. (2015) “*LIDC‑IDRI | Data from The Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI): A completed reference database of lung nodules on CT scans,*” The Cancer Imaging Archive (TCIA). DOI:10.7937/K9/TCIA.2015.LO9QL9SX  
+● Armato et al. (2011) “*The Lung Image Database Consortium (LIDC) and Image Database Resource Initiative (IDRI): A completed reference database of lung nodules on CT scans,*” Medical Physics, 38(2), pp. 915–931. DOI:10.1118/1.3528204  
+● Gonzalez R. C., Woods R. E. (2018) "*Digital Image Processing*", 4th Edition, Pearson.
+● Soille P. (2003) "*Morphological Image Analysis: Principles and Applications*", 2nd Edition, Springer.    
+● Canny J. (1986) "*A Computational Approach to Edge Detection*", IEEE Transactions on Pattern Analysis and Machine Intelligence, 8-6, 679–698. DOI:10.1109/TPAMI.1986.4767851  
+● Otsu N. (1979) "*A Threshold Selection Method from Gray-Level Histograms*", IEEE Transactions on Systems, Man, and Cybernetics, 9-1, 62–66. DOI:10.1109/TSMC.1979.4310076  
+● MacQueen J. (1967) "*Some Methods for Classification and Analysis of Multivariate Observations"*, Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability, 1, 281–297.  
